@@ -1,9 +1,9 @@
-<div display="flex" align="center" justifly-content="center">
-    <h3>In the bleak midwinter.</h3>
-    <img  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDcxYzE1ZjFmNzg1MDM2NjkzYjA4NTEzMWFiMzRmZTM1ODVmMjJjNiZjdD1z/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150"/>
-    <div>
-        <a href="https://github.com/Naxn1a">me</a>
-        <span>&#8226;</span>
-        <a href="https://www.linkedin.com/in/naxn1a">linkedin</a>
-    </div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=513DF7&random=false&width=540&height=54&lines=Hi+there!;I'm+Naxn1a)
+
+<hr />
+
+<div align="center">
+    <a href="https://github.com/Naxn1a">me</a>
+    <span>&#8226;</span>
+    <a href="https://www.linkedin.com/in/naxn1a">linkedin</a>
 </div>
